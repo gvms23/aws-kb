@@ -1,7 +1,6 @@
 # Cloud Computing Models
 Created by: Gabriel Vicente (gabs_br) from AWS Cloud Quest
 
-
 ----------
 
 ## IaaS
@@ -18,3 +17,9 @@ Software as a Service
 
 ## Comparison
 ![image](https://user-images.githubusercontent.com/24459642/194738668-b5e0d05c-6d55-4312-80fe-057f5ea19151.png)
+
+
+------------
+
+# Cloud Computing Deployment Models
+![image](https://user-images.githubusercontent.com/24459642/194738755-fab61b4e-3ecc-4d02-a939-e8e81ccde85a.png)
